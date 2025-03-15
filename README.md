@@ -2,7 +2,7 @@
 
 <br/>
 <div align="center">
-    <img src="./readme-img/git-original.svg" alt="Logo" width="100" height="100" />
+    <img src="./readme-img/docker-original.svg" alt="Logo" width="100" height="100" />
     <h1 align="center">Comandos Docker</h1>
     <p align="center">Comandos para trabalhar com Docker por CLI</p>
 </div>
@@ -10,20 +10,14 @@
 <br/>
 
 <div align="center">
-    <a href="https://github.com/YuriSiman/git-command-line/blob/master/LICENSE" target="_blank">
+    <a href="https://github.com/YuriSiman/docker-CLI/blob/master/LICENSE" target="_blank">
       <img alt="LICENSE" src="https://img.shields.io/badge/license-mit-%23A6CE39?style=for-the-badge&logo=github" />
     </a>
     <a href="https://github.com/YuriSiman" target="_blank">
       <img alt="GitHub" src="https://img.shields.io/badge/github-perfil-%237159c1?style=for-the-badge&logo=github" />
     </a>
-    <a href="https://yurisiman.com.br" target="_blank">
-      <img alt="Site" src="https://img.shields.io/badge/site-yurisiman-E0A80D?style=for-the-badge&logo=Purism" />
-    </a>
     <a href="https://www.linkedin.com/in/yurisiman/" target="_blank">
       <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-social-0A66C2?style=for-the-badge&logo=LinkedIn" />
-    </a>
-    <a href="mailto:contato@yurisiman.com.br" target="_blank">
-      <img alt="Gmail" src="https://img.shields.io/badge/email-contato-EA4335?style=for-the-badge&logo=Gmail" />
     </a>
 </div>
 
@@ -39,7 +33,7 @@ Aproveite! :octocat:
 
 ## :pencil: Pré-requisitos
 
-1. Se você não possui o git instalado, acesse [aqui]([https://git-scm.com/downloads](https://docs.docker.com/get-started/get-docker/)) e instale conforme o seu sistema operacional.
+1. Se você não possui o Docker instalado, acesse [aqui](https://docs.docker.com/get-started/get-docker/)) e instale conforme o seu sistema operacional.
 2. Clone este repositório em sua máquina local
 
    ```sh
