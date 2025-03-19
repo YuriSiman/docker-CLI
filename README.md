@@ -50,6 +50,7 @@ Aproveite! :octocat:
     <li><a href="#gerenciar-containers">Gerenciar Containers</a></li>
     <li><a href="#executar-um-novo-container">Executar um novo Container</a></li>
     <li><a href="#gerenciar-imagens">Gerenciar Imagens</a></li>
+    <li><a href="#docker-compose">Docker Compose</a></li>
     <li><a href="#informacoes-estatisticas">Informações e Estatísticas</a></li>
   </ul>
 </details>
@@ -208,6 +209,20 @@ Carregar uma Imagem de um arquivo tar
 
 ```sh
 docker load -i NOME-ARQUIVO.tar
+```
+
+<p align="right"><a href="#top">Início ↑</a></p>
+
+---
+
+<div id="docker-compose"></div>
+
+### Docker Compose
+
+Executar um arquivo docker compose (subir vários Dockerfiles com um arquivo docker compose)
+
+```sh
+docker-compose -f NOME-ARQUIVO-COMPOSE.yml up
 ```
 
 <p align="right"><a href="#top">Início ↑</a></p>
